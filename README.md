@@ -1,2 +1,2 @@
 # Misc
-Miscellaneous Coded
+Miscellaneous Codes
